@@ -1,0 +1,15 @@
+{
+  "name": "joeeliagrid",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "bootstrap": "4.3.1",
+    "gridsome": "^0.5.0",
+    "vue-fixed-header": "^3.1.3",
+    "vue-typer": "^1.2.0"
+  }
+}
